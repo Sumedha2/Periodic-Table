@@ -1,0 +1,148 @@
+body{
+  margin: 0;
+  background-color: #faebd7;
+  padding: 0;
+  margin-bottom: -20px;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+}
+table{
+  width: 93.6%;
+  z-index:-1;
+  font-family:monospace;
+}
+td{
+  width: 5.2%;
+  height: 70px;
+  padding: 0;
+  margin: 0;
+  border-style: solid;
+  border-radius: 7%;
+  border-width: thin;
+  text-align: center;
+}
+th{
+  font-family: 'Indie Flower', cursive;
+}
+.f{
+  position: absolute;
+  top: 173px;
+  left: 39%;
+  font-family: 'Indie Flower', cursive;
+}
+.sec{
+  position: absolute;
+  top: 193px;
+  left: 39%;
+  font-family: 'Indie Flower', cursive;
+}
+.th{
+  position: absolute;
+  top: 212px;
+  left: 39%;
+  font-family: 'Indie Flower', cursive;
+}
+.fou{
+  position: absolute;
+  top: 232px;
+  left: 39%;
+  font-family: 'Indie Flower', cursive;
+}
+hr{
+  width: 50px;
+  position: absolute;
+  left: 35%;
+  border: solid;
+  border-width: thin;
+  margin: 0;
+}
+.first{
+  top: 182px;
+}
+.second{
+  top: 203px;
+}
+.third{
+  top: 223px;
+}
+.fourth{
+  top: 243px;
+}
+.box{
+  position: absolute;
+  left: 30%;
+  top: 170px;
+  height: 80px;
+  width: 80px;
+  border: solid;
+  border-radius: 10%;
+  font-family: 'Xanh Mono', monospace;
+
+}
+.blank{
+  border: none;
+}
+.p2{
+  width: 60%;
+}
+.periodic{
+  margin-top: 40px;
+  z-index: -1;
+}
+.periodic2{
+  margin-top: 50px;
+}
+a{
+  float: left;
+}
+.nm{
+  /* background-color: blue; */
+  /* background-image:linear-gradient(.6turn, #002e7a, #0061ff); */
+  background-color: #1F75FE;
+}
+.am{
+  background-color: #cc0000;
+}
+.ae{
+  background-color: #FF4500;
+}
+.tm{
+  background-color: #FFC72C;
+}
+.bm{
+  background-color: #00563B;
+  color: #17B169;
+}
+.s{
+  background-color: #17B169;
+}
+.h{
+  background-color: #FF69B4;
+}
+.nb{
+  background-color: #DDA0DD;
+}
+.lan{
+  background-color: #C04000;
+}
+.act{
+  background-color: tan;
+}
+.colour{
+  margin-top: 50px;
+}
+.periodic3{
+  width: 60%;
+  font-family: 'Indie Flower', cursive;
+}
+.foot{
+  margin-top: 40px;
+  margin-bottom: 0;
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  background-color: tan;
+  font-family:monospace;
+  font-size: 1.2rem;
+}
